@@ -1,0 +1,4 @@
+redfish
+httplib2
+python_hpilo
+configparser
